@@ -37,11 +37,12 @@ The `advanced_pii_extractor.py` script parses and scans the following file types
 ## Example Output
 
 **Matches are saved in respective files:**
+  ```bash
   1. email_matches.txt
   2. phone_matches.txt
   3. ssn_matches.txt
   4. credit_card_matches.txt
-  5. ip_matches.txt
+  5. ip_matches.txt```
 Each file contains the file path and matched PII entries.
 
 ## License
